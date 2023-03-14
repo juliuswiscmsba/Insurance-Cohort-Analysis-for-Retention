@@ -66,5 +66,5 @@ The csv file has paying member historical data arranged by Policy_number from Ja
 
 
 Other findings:
-	Prior to the insurance start date, more than 5000 customers had already churned. (Churn Date < Start Date)
-	There may be some relationship between Insurance carrier or provider and State of the policy holder.
+- Prior to the insurance start date, more than 5000 customers had already churned. (Churn Date < Start Date)
+- There may be some relationship between Insurance carrier or provider and State of the policy holder.
