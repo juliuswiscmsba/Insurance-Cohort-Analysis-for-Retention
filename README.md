@@ -9,7 +9,8 @@ The csv file has paying member historical data arranged by Policy_number from Ja
 
 ### Are there any factors that impact the length of member Lifetime? 
  
-![Length of Member Lifetime Dashboard](https://user-images.githubusercontent.com/90480106/224901126-85d08342-ff7e-45f5-8221-17c3e2469d99.png)
+![Length of Member Lifetime Dashboard](https://user-images.githubusercontent.com/90480106/229950771-9554c698-106a-4371-a1af-19ce8172f2e4.png)
+
 
   According to the dashboard, there are 4 factors that impact the length of member lifetime, “Insurance Start Date”, “State of the Policy Holder”, “Insurance Carrier or Provider”, and “Maximum Duration that the plan allows” (Cluster for a better view).
 
